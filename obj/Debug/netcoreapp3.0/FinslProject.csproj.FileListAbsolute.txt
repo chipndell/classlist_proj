@@ -1,0 +1,11 @@
+D:\BDAT\Information Encoding\Final Project\FinalProject\bin\Debug\netcoreapp3.0\FinslProject.exe
+D:\BDAT\Information Encoding\Final Project\FinalProject\bin\Debug\netcoreapp3.0\FinslProject.deps.json
+D:\BDAT\Information Encoding\Final Project\FinalProject\bin\Debug\netcoreapp3.0\FinslProject.runtimeconfig.json
+D:\BDAT\Information Encoding\Final Project\FinalProject\bin\Debug\netcoreapp3.0\FinslProject.runtimeconfig.dev.json
+D:\BDAT\Information Encoding\Final Project\FinalProject\bin\Debug\netcoreapp3.0\FinslProject.dll
+D:\BDAT\Information Encoding\Final Project\FinalProject\bin\Debug\netcoreapp3.0\FinslProject.pdb
+D:\BDAT\Information Encoding\Final Project\FinalProject\obj\Debug\netcoreapp3.0\FinslProject.csprojAssemblyReference.cache
+D:\BDAT\Information Encoding\Final Project\FinalProject\obj\Debug\netcoreapp3.0\FinslProject.AssemblyInfoInputs.cache
+D:\BDAT\Information Encoding\Final Project\FinalProject\obj\Debug\netcoreapp3.0\FinslProject.AssemblyInfo.cs
+D:\BDAT\Information Encoding\Final Project\FinalProject\obj\Debug\netcoreapp3.0\FinslProject.dll
+D:\BDAT\Information Encoding\Final Project\FinalProject\obj\Debug\netcoreapp3.0\FinslProject.pdb

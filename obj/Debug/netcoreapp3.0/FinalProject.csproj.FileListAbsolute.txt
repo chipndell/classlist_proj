@@ -1,0 +1,15 @@
+D:\BDAT\Information Encoding\Final Project\FinalProject\bin\Debug\netcoreapp3.0\FinalProject.exe
+D:\BDAT\Information Encoding\Final Project\FinalProject\bin\Debug\netcoreapp3.0\FinalProject.deps.json
+D:\BDAT\Information Encoding\Final Project\FinalProject\bin\Debug\netcoreapp3.0\FinalProject.runtimeconfig.json
+D:\BDAT\Information Encoding\Final Project\FinalProject\bin\Debug\netcoreapp3.0\FinalProject.runtimeconfig.dev.json
+D:\BDAT\Information Encoding\Final Project\FinalProject\bin\Debug\netcoreapp3.0\FinalProject.dll
+D:\BDAT\Information Encoding\Final Project\FinalProject\bin\Debug\netcoreapp3.0\FinalProject.pdb
+D:\BDAT\Information Encoding\Final Project\FinalProject\obj\Debug\netcoreapp3.0\FinalProject.csprojAssemblyReference.cache
+D:\BDAT\Information Encoding\Final Project\FinalProject\obj\Debug\netcoreapp3.0\FinalProject.AssemblyInfoInputs.cache
+D:\BDAT\Information Encoding\Final Project\FinalProject\obj\Debug\netcoreapp3.0\FinalProject.AssemblyInfo.cs
+D:\BDAT\Information Encoding\Final Project\FinalProject\obj\Debug\netcoreapp3.0\FinalProject.dll
+D:\BDAT\Information Encoding\Final Project\FinalProject\obj\Debug\netcoreapp3.0\FinalProject.pdb
+D:\BDAT\Information Encoding\Final Project\FinalProject\bin\Debug\netcoreapp3.0\ControlzEx.dll
+D:\BDAT\Information Encoding\Final Project\FinalProject\bin\Debug\netcoreapp3.0\Microsoft.Xaml.Behaviors.dll
+D:\BDAT\Information Encoding\Final Project\FinalProject\obj\Debug\netcoreapp3.0\FinalProject.csproj.CopyComplete
+D:\BDAT\Information Encoding\Final Project\FinalProject\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
